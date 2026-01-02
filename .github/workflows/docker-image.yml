@@ -1,14 +1,16 @@
-name: Docker Image CI
+services:
+  hnh-food-book:
+    build: .
+    image: hnh-food-book:local
+    container_name: hnh-food-book
+    restart: unless-stopped
+    ports:
+      - "8082:8080"
+    volumes:
+      - ./data:/hnh-food/frontend/api/data
+    networks:
+      - hnmap
 
-on: workflow_dispatch
-
-jobs:
-
-  build:
-
-    runs-on: ubuntu-latest
-
-    steps:
-    - uses: actions/checkout@v4
-    - name: Build the Docker image
-      run: docker run -ti -d --restart=always -v /srv/hnh-food:/hnh-food/frontend/api/data -p 80:8080 --name food hnh-food
+networks:
+  hnmap:
+    external: true
