@@ -1,0 +1,21 @@
+[
+  {
+    "t": "Autumn Steak",
+    "i": {
+      "Black Pepper": 100,
+      "Heartwood Leaves": 100,
+      "Pork bollock": 100,
+      "Fairy Mushroom": 100
+    },
+    "r": "gfx/invobjs/autumnsteak",
+    "f": {
+      "per2": 14.99,
+      "per": 45.9,
+      "con": 13.14,
+      "int": 6.43,
+      "str2": 131.4
+    },
+    "h": 1,
+    "e": 800
+  }
+]
