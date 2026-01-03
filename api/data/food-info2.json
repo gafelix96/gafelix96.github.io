@@ -25446,5 +25446,995 @@
                 "percentage": 100
             }
         ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.84,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 0.73
+            },
+            {
+                "name": "Strength +1",
+                "value": 3.79
+            },
+            {
+                "name": "Constitution +1",
+                "value": 17.31
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Pork",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.81,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.09
+            },
+            {
+                "name": "Strength +1",
+                "value": 8.44
+            },
+            {
+                "name": "Constitution +1",
+                "value": 4.26
+            },
+            {
+                "name": "Intelligence +2",
+                "value": 2.39
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Otter",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.46,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 5.09
+            },
+            {
+                "name": "Strength +1",
+                "value": 8.23
+            },
+            {
+                "name": "Constitution +1",
+                "value": 0.8
+            },
+            {
+                "name": "Dexterity +1",
+                "value": 3.18
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Wild Mutton",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 3.11,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 5.02
+            },
+            {
+                "name": "Strength +1",
+                "value": 3.73
+            },
+            {
+                "name": "Constitution +1",
+                "value": 3.14
+            },
+            {
+                "name": "Charisma +1",
+                "value": 11.19
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Moose",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.22,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 3.98
+            },
+            {
+                "name": "Strength +1",
+                "value": 6.62
+            },
+            {
+                "name": "Constitution +1",
+                "value": 2.32
+            },
+            {
+                "name": "Perception +1",
+                "value": 1
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Bat",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.42,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.24
+            },
+            {
+                "name": "Strength +1",
+                "value": 7.88
+            },
+            {
+                "name": "Constitution +1",
+                "value": 3.71
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Badger",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.58,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.6
+            },
+            {
+                "name": "Strength +1",
+                "value": 5.98
+            },
+            {
+                "name": "Constitution +1",
+                "value": 2.88
+            },
+            {
+                "name": "Agility +1",
+                "value": 4.27
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Venison",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.84,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 5.92
+            },
+            {
+                "name": "Strength +1",
+                "value": 8.54
+            },
+            {
+                "name": "Constitution +1",
+                "value": 2.47
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Adder",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.46,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.95
+            },
+            {
+                "name": "Strength +1",
+                "value": 11.4
+            },
+            {
+                "name": "Constitution +1",
+                "value": 0.77
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Wild Horse",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.33,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.44
+            },
+            {
+                "name": "Strength +1",
+                "value": 10.23
+            },
+            {
+                "name": "Constitution +1",
+                "value": 0.69
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Wild Beef",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.91,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.88
+            },
+            {
+                "name": "Strength +1",
+                "value": 13.14
+            },
+            {
+                "name": "Constitution +1",
+                "value": 3.05
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Boar",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 1.66,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 2.02
+            },
+            {
+                "name": "Strength +1",
+                "value": 3.38
+            },
+            {
+                "name": "Constitution +1",
+                "value": 5.03
+            },
+            {
+                "name": "Will +1",
+                "value": 0.76
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Caverat",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 3.78,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 5.02
+            },
+            {
+                "name": "Strength +1",
+                "value": 9.32
+            },
+            {
+                "name": "Constitution +1",
+                "value": 3.14
+            },
+            {
+                "name": "Strength +2",
+                "value": 5.83
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Mammoth",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.56,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.88
+            },
+            {
+                "name": "Strength +1",
+                "value": 9.05
+            },
+            {
+                "name": "Constitution +1",
+                "value": 2.13
+            },
+            {
+                "name": "Perception +1",
+                "value": 1.83
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Fox",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.84,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 0.73
+            },
+            {
+                "name": "Strength +1",
+                "value": 3.79
+            },
+            {
+                "name": "Constitution +1",
+                "value": 17.31
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Pork",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 3.17,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.75
+            },
+            {
+                "name": "Strength +1",
+                "value": 2.2
+            },
+            {
+                "name": "Constitution +1",
+                "value": 16.18
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Bear",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.17,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.1
+            },
+            {
+                "name": "Strength +1",
+                "value": 6.68
+            },
+            {
+                "name": "Constitution +1",
+                "value": 2.05
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 0.77
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Stoat",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.22,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 3.89
+            },
+            {
+                "name": "Strength +1",
+                "value": 7.22
+            },
+            {
+                "name": "Constitution +1",
+                "value": 1.7
+            },
+            {
+                "name": "Agility +1",
+                "value": 0.97
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Beaver",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.25,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 3.89
+            },
+            {
+                "name": "Strength +1",
+                "value": 7.22
+            },
+            {
+                "name": "Constitution +1",
+                "value": 2.07
+            },
+            {
+                "name": "Dexterity +1",
+                "value": 0.85
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Rabbit",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.28,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.11
+            },
+            {
+                "name": "Strength +1",
+                "value": 7.62
+            },
+            {
+                "name": "Constitution +1",
+                "value": 2.05
+            },
+            {
+                "name": "Charisma +1",
+                "value": 0.77
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Squirrel",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.72,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.39
+            },
+            {
+                "name": "Strength +1",
+                "value": 8.16
+            },
+            {
+                "name": "Constitution +1",
+                "value": 1.65
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 2.2
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Wolverine",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.27,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.19
+            },
+            {
+                "name": "Strength +1",
+                "value": 7.77
+            },
+            {
+                "name": "Constitution +1",
+                "value": 0.65
+            },
+            {
+                "name": "Will +1",
+                "value": 1.96
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Wildgoat",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.31,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.24
+            },
+            {
+                "name": "Strength +1",
+                "value": 1.78
+            },
+            {
+                "name": "Constitution +1",
+                "value": 4.8
+            },
+            {
+                "name": "Dexterity +1",
+                "value": 4.11
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Reindeer Venison",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.84,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.49
+            },
+            {
+                "name": "Strength +1",
+                "value": 4.17
+            },
+            {
+                "name": "Constitution +1",
+                "value": 2.81
+            },
+            {
+                "name": "Agility +1",
+                "value": 8.34
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Lynx",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.21,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 4.02
+            },
+            {
+                "name": "Strength +1",
+                "value": 7.46
+            },
+            {
+                "name": "Constitution +1",
+                "value": 2.39
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Mole",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.04,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 1.93
+            },
+            {
+                "name": "Strength +1",
+                "value": 3.76
+            },
+            {
+                "name": "Constitution +1",
+                "value": 6.23
+            },
+            {
+                "name": "Agility +1",
+                "value": 3.21
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Roe Venison",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Onion Skewer",
+        "resourceName": "gfx/invobjs/onionskewer",
+        "hunger": 2.72,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Will +2",
+                "value": 2.01
+            },
+            {
+                "name": "Strength +1",
+                "value": 7.46
+            },
+            {
+                "name": "Constitution +1",
+                "value": 2.51
+            },
+            {
+                "name": "Charisma +2",
+                "value": 4.02
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Mutton",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            }
+        ]
     }
 ]
