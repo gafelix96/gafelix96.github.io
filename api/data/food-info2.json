@@ -24248,5 +24248,271 @@
                 "percentage": 100
             }
         ]
+    },
+    {
+        "itemName": "Carrot Cake",
+        "resourceName": "gfx/invobjs/carrotcake",
+        "hunger": 1.71,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 8.19
+            },
+            {
+                "name": "Strength +1",
+                "value": 7.13
+            },
+            {
+                "name": "Will +1",
+                "value": 3.12
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Millet Flour",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Carrot Cake",
+        "resourceName": "gfx/invobjs/carrotcake",
+        "hunger": 1.85,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 9.82
+            },
+            {
+                "name": "Strength +1",
+                "value": 3.82
+            },
+            {
+                "name": "Dexterity +1",
+                "value": 6.73
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Goatsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Barley Flour",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Carrot Cake",
+        "resourceName": "gfx/invobjs/carrotcake",
+        "hunger": 1.85,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 9.82
+            },
+            {
+                "name": "Strength +1",
+                "value": 3.82
+            },
+            {
+                "name": "Charisma +1",
+                "value": 6.36
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Sheepsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Barley Flour",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Carrot Cake",
+        "resourceName": "gfx/invobjs/carrotcake",
+        "hunger": 1.85,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 9.81
+            },
+            {
+                "name": "Strength +1",
+                "value": 3.82
+            },
+            {
+                "name": "Constitution +1",
+                "value": 6.36
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Barley Flour",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Carrot Cake",
+        "resourceName": "gfx/invobjs/carrotcake",
+        "hunger": 1.7,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 8.17
+            },
+            {
+                "name": "Will +1",
+                "value": 10.23
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Goatsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Millet Flour",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Carrot Cake",
+        "resourceName": "gfx/invobjs/carrotcake",
+        "hunger": 1.9,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 8.1
+            },
+            {
+                "name": "Constitution +1",
+                "value": 5.29
+            },
+            {
+                "name": "Will +1",
+                "value": 7.06
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Goatsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Wheat Flour",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Carrot Cake",
+        "resourceName": "gfx/invobjs/carrotcake",
+        "hunger": 1.9,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 8.09
+            },
+            {
+                "name": "Dexterity +1",
+                "value": 7.05
+            },
+            {
+                "name": "Constitution +1",
+                "value": 5.29
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Sheepsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Wheat Flour",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Carrot Cake",
+        "resourceName": "gfx/invobjs/carrotcake",
+        "hunger": 1.9,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 8.09
+            },
+            {
+                "name": "Strength +1",
+                "value": 7.05
+            },
+            {
+                "name": "Agility +1",
+                "value": 5.29
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Wheat Flour",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Carrot Cake",
+        "resourceName": "gfx/invobjs/carrotcake",
+        "hunger": 1.62,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 7.41
+            },
+            {
+                "name": "Dexterity +1",
+                "value": 6.45
+            },
+            {
+                "name": "Will +1",
+                "value": 2.82
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Sheepsmilk",
+                "percentage": 100
+            },
+            {
+                "name": "Millet Flour",
+                "percentage": 100
+            }
+        ]
     }
 ]
