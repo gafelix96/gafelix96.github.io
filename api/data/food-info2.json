@@ -26436,5 +26436,893 @@
                 "percentage": 100
             }
         ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 2.54,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 5.88
+            },
+            {
+                "name": "Constitution +1",
+                "value": 14.49
+            },
+            {
+                "name": "Dexterity +1",
+                "value": 5.43
+            },
+            {
+                "name": "Charisma +2",
+                "value": 4.02
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Wild Mutton",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 7.54,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 5
+            },
+            {
+                "name": "Constitution +1",
+                "value": 33.9
+            },
+            {
+                "name": "Constitution +2",
+                "value": 15.41
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Pork",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 3.93,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 4.1
+            },
+            {
+                "name": "Constitution +1",
+                "value": 6.32
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 12.65
+            },
+            {
+                "name": "Charisma +1",
+                "value": 1.54
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Squirrel",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 4.24,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 7.36
+            },
+            {
+                "name": "Constitution +1",
+                "value": 6.98
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 13.96
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Fox",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 3.86,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 2.01
+            },
+            {
+                "name": "Constitution +1",
+                "value" :7.53
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 12.65
+            },
+            {
+                "name": "Agility +1",
+                "value": 3.63
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Beaver",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 4.41,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 3.11
+            },
+            {
+                "name": "Constitution +1",
+                "value": 6.39
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 16.27
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Wolverine",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 3.91,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 6.64
+            },
+            {
+                "name": "Constitution +1",
+                "value": 6.24
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 12.47
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Bat",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 4.44,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 2.62
+            },
+            {
+                "name": "Constitution +1",
+                "value": 8.58
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 14.42
+            },
+            {
+                "name": "Will +2",
+                "value": 2.46
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Otter",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 4.12,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 4.46
+            },
+            {
+                "name": "Constitution +1",
+                "value": 7.78
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 9.16
+            },
+            {
+                "name": "Agility +1",
+                "value": 9.16
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Badger",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 2.93,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 4.36
+            },
+            {
+                "name": "Constitution +1",
+                "value": 7.6
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 3.19
+            },
+            {
+                "name": "Will +1",
+                "value": 9.58
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Wildgoat",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 4.19,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 5.59
+            },
+            {
+                "name": "Constitution +1",
+                "value": 6.89
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 8.96
+            },
+            {
+                "name": "Strength +1",
+                "value": 11.03
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Boar",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 2.44,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 5.4
+            },
+            {
+                "name": "Constitution +1",
+                "value": 13.31
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 4.99
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Wild Beef",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 4.18,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 4.91
+            },
+            {
+                "name": "Constitution +1",
+                "value": 8.57
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 5.76
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 17.28
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Moose",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 3.92,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 5.6
+            },
+            {
+                "name": "Constitution +1",
+                "value": 6.9
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 9.67
+            },
+            {
+                "name": "Agility +1",
+                "value": 7.02
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Venison",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 4.03,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 5.53
+            },
+            {
+                "name": "Constitution +1",
+                "value": 27.29
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 3.41
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Bear",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 4.02,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 4.53
+            },
+            {
+                "name": "Constitution +1",
+                "value": 7.91
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 6.64
+            },
+            {
+                "name": "Agility +1",
+                "value": 13.29
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Lynx",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 3.34,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 2.88
+            },
+            {
+                "name": "Constitution +1",
+                "value": 5.9
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 9.91
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 3.11
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Stoat",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 3.55,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 8.25
+            },
+            {
+                "name": "Constitution +1",
+                "value": 6.41
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 9.61
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Mole",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 3.57,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 6.09
+            },
+            {
+                "name": "Constitution +1",
+                "value": 7.87
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 10.23
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Reindeer Venison",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 4.36,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 6.36
+            },
+            {
+                "name": "Constitution +1",
+                "value": 7.13
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 14.26
+            },
+            {
+                "name": "Charisma +1",
+                "value": 1.54
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Roe Venison",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 4.02,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 3.69
+            },
+            {
+                "name": "Constitution +1",
+                "value": 7.58
+            },
+            {
+                "name": "Dexterity +2",
+                "value": 12.74
+            },
+            {
+                "name": "Dexterity +1",
+                "value": 1.52
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Rabbit",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Autumn Steak",
+        "resourceName": "gfx/invobjs/autumnsteak",
+        "hunger": 2.48,
+        "energy": 800,
+        "feps": [
+            {
+                "name": "Perception +1",
+                "value": 5.57
+            },
+            {
+                "name": "Constitution +1",
+                "value": 13.74
+            },
+            {
+                "name": "Strength +1",
+                "value": 5.15
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Lettuce Leaf",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            },
+            {
+                "name": "Snowtop",
+                "percentage": 100
+            },
+            {
+                "name": "Wild Horse",
+                "percentage": 100
+            }
+        ]
     }
 ]
