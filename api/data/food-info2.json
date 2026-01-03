@@ -25312,5 +25312,61 @@
                 "percentage": 100
             }
         ]
+    },
+    {
+        "itemName": "Dressed Lettuce",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 2.27,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Agility +2",
+                "value": 1.66
+            },
+            {
+                "name": "Perception +2",
+                "value": 3.32
+            },
+            {
+                "name": "Charisma +1",
+                "value": 8.29
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Domestic Honey",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Dressed Lettuce",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 2.38,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Agility +2",
+                "value": 1.51
+            },
+            {
+                "name": "Perception +2",
+                "value": 3.78
+            },
+            {
+                "name": "Charisma +1",
+                "value": 9.45
+            },
+            {
+                "name": "Dexterity +1",
+                "value": 0.65
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Nectar",
+                "percentage": 100
+            }
+        ]
     }
 ]
