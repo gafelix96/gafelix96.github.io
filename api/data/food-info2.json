@@ -20403,40 +20403,6 @@
         "ingredients": []
     },
     {
-        "itemName": "Omelette",
-        "resourceName": "gfx/invobjs/omelette",
-        "hunger": 2.88,
-        "energy": 500,
-        "feps": [
-            {
-                "name": "Dexterity +2",
-                "value": 6.14
-            },
-            {
-                "name": "Perception +1",
-                "value": 3
-            },
-            {
-                "name": "Strength +1",
-                "value": 2.7
-            }
-        ],
-        "ingredients": [
-            {
-                "name": "Yellow Onion",
-                "percentage": 100
-            },
-            {
-                "name": "Chicken Egg",
-                "percentage": 100
-            },
-            {
-                "name": "Salt",
-                "percentage": 100
-            }
-        ]
-    },
-    {
         "itemName": "Cow Chorizo",
         "resourceName": "gfx/invobjs/wurst-cowchorizo",
         "hunger": 2,
@@ -24511,6 +24477,838 @@
             },
             {
                 "name": "Millet Flour",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 4.43,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 14.54
+            },
+            {
+                "name": "Perception +1",
+                "value": 15.49
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 6.39
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Leek",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 5.87,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 17.21
+            },
+            {
+                "name": "Perception +1",
+                "value": 5.49
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 9.68
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Leek",
+                "percentage": 100
+            },
+            {
+                "name": "Tansy",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 5.83,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 17.42
+            },
+            {
+                "name": "Perception +1",
+                "value": 5.73
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 9.8
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Leek",
+                "percentage": 100
+            },
+            {
+                "name": "Laurel Leaves",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 3.45,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 9.11
+            },
+            {
+                "name": "Perception +1",
+                "value": 6.38
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 5.13
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Leek",
+                "percentage": 100
+            },
+            {
+                "name": "Juniper Berries",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 3.75,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 8.9
+            },
+            {
+                "name": "Perception +1",
+                "value": 9.07
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 5.01
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Leek",
+                "percentage": 100
+            },
+            {
+                "name": "Clove of Garlic",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 5.11,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 9.29
+            },
+            {
+                "name": "Perception +1",
+                "value": 5.81
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 5.23
+            },
+            {
+                "name": "Agility +1",
+                "value": 14.82
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Leek",
+                "percentage": 100
+            },
+            {
+                "name": "Chives",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 4.88,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 19.25
+            },
+            {
+                "name": "Perception +1",
+                "value": 6.02
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 3.76
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Red Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 6.21,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 23.52
+            },
+            {
+                "name": "Perception +1",
+                "value": 4.8
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 3
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Red Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Tansy",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 4.17,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 12.09
+            },
+            {
+                "name": "Perception +1",
+                "value": 7.89
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 4.93
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Red Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Clove of Garlic",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 5.35,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 12.57
+            },
+            {
+                "name": "Perception +1",
+                "value": 5.03
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 8.76
+            },
+            {
+                "name": "Agility +1",
+                "value": 15.12
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Red Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Chives",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 3.59,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 7.7
+            },
+            {
+                "name": "Perception +1",
+                "value": 6.16
+            },
+            {
+                "name": "Strength +1",
+                "value": 8.8
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Garlic",
+                "percentage": 100
+            },
+            {
+                "name": "Juniper Berries",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 4.57,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 12.76
+            },
+            {
+                "name": "Perception +1",
+                "value": 7.12
+            },
+            {
+                "name": "Strength +1",
+                "value": 11.39
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Garlic",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 5.19,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 9.6
+            },
+            {
+                "name": "Perception +1",
+                "value": 6
+            },
+            {
+                "name": "Strength +1",
+                "value": 5.4
+            },
+            {
+                "name": "Agility +1",
+                "value": 15.3
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Chives",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 6.16,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 15.01
+            },
+            {
+                "name": "Perception +1",
+                "value": 5.64
+            },
+            {
+                "name": "Strength +1",
+                "value": 17.15
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Garlic",
+                "percentage": 100
+            },
+            {
+                "name": "Laurel Leaves",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 3.79,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 9.12
+            },
+            {
+                "name": "Perception +1",
+                "value": 9.3
+            },
+            {
+                "name": "Strength +1",
+                "value": 5.13
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Clove of Garlic",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 4.46,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 14.75
+            },
+            {
+                "name": "Perception +1",
+                "value": 7.2
+            },
+            {
+                "name": "Strength +1",
+                "value": 6.48
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Salt",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 5.87,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 17.67
+            },
+            {
+                "name": "Perception +1",
+                "value": 5.81
+            },
+            {
+                "name": "Strength +1",
+                "value": 9.94
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Laurel Leaves",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 3.91,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 7.67
+            },
+            {
+                "name": "Perception +1",
+                "value": 8.93
+            },
+            {
+                "name": "Strength +1",
+                "value": 8.77
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Garlic",
+                "percentage": 100
+            },
+            {
+                "name": "Clove of Garlic",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 5.92,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 17.53
+            },
+            {
+                "name": "Perception +1",
+                "value": 5.59
+            },
+            {
+                "name": "Strength +1",
+                "value": 9.86
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Tansy",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 6.12,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 23.4
+            },
+            {
+                "name": "Perception +1",
+                "value": 4.39
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 3.08
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Red Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Laurel Leaves",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 3.68,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 12.09
+            },
+            {
+                "name": "Perception +1",
+                "value": 5.42
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 3.02
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Red Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Juniper Berries",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 5.53,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 8.06
+            },
+            {
+                "name": "Perception +1",
+                "value": 5.75
+            },
+            {
+                "name": "Strength +1",
+                "value": 9.21
+            },
+            {
+                "name": "Agility +1",
+                "value": 16.78
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Garlic",
+                "percentage": 100
+            },
+            {
+                "name": "Chives",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 6.37,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 15.65
+            },
+            {
+                "name": "Perception +1",
+                "value": 5.71
+            },
+            {
+                "name": "Strength +1",
+                "value": 17.89
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Garlic",
+                "percentage": 100
+            },
+            {
+                "name": "Tansy",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Omelette",
+        "resourceName": "gfx/invobjs/omelette",
+        "hunger": 5.87,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 9.32
+            },
+            {
+                "name": "Perception +1",
+                "value": 6.53
+            },
+            {
+                "name": "Strength +1",
+                "value": 5.24
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Chicken Egg",
+                "percentage": 100
+            },
+            {
+                "name": "Yellow Onion",
+                "percentage": 100
+            },
+            {
+                "name": "Juniper Berries",
                 "percentage": 100
             }
         ]
