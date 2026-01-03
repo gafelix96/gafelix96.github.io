@@ -25368,5 +25368,83 @@
                 "percentage": 100
             }
         ]
+    },
+    {
+        "itemName": "Turnip Fries",
+        "resourceName": "gfx/invobjs/turnipfries",
+        "hunger": 1.7,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +2",
+                "value": 4.23
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 2.82
+            },
+            {
+                "name": "Will +1",
+                "value": 3.29
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Goatsmilk",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Turnip Fries",
+        "resourceName": "gfx/invobjs/turnipfries",
+        "hunger": 1.7,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +2",
+                "value": 4.22
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 2.81
+            },
+            {
+                "name": "Dexterity +1",
+                "value": 3.28
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Sheepsmilk",
+                "percentage": 100
+            }
+        ]
+    },
+    {
+        "itemName": "Turnip Fries",
+        "resourceName": "gfx/invobjs/turnipfries",
+        "hunger": 1.7,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Perception +2",
+                "value": 4.21
+            },
+            {
+                "name": "Intelligence +1",
+                "value": 2.81
+            },
+            {
+                "name": "Strength +1",
+                "value": 3.28
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Cowsmilk",
+                "percentage": 100
+            }
+        ]
     }
 ]
