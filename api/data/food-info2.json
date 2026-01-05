@@ -27327,7 +27327,7 @@
     },
     {
         "itemName": "Moules Frites",
-        "resourceName": "gfx/invobjs/moulesFrites",
+        "resourceName": "gfx/invobjs/moulesfrites",
         "hunger": 4.85,
         "energy": 500,
         "feps": [
