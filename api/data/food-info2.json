@@ -27324,5 +27324,39 @@
                 "percentage": 100
             }
         ]
+    },
+    {
+        "itemName": "Moules Frites",
+        "resourceName": "gfx/invobjs/moulesFrites",
+        "hunger": 4.85,
+        "energy": 500,
+        "feps": [
+            {
+                "name": "Dexterity +2",
+                "value": 11.66
+            },
+            {
+                "name": "Charisma +1",
+                "value": 7.95
+            },
+            {
+                "name": "Dexterity +1",
+                "value": 5.49
+            },
+            {
+                "name": "Psyche +1",
+                "value": 5.96
+            }
+        ],
+        "ingredients": [
+            {
+                "name": "Beetroot",
+                "percentage": 100
+            },
+            {
+                "name": "Laurel Leaves",
+                "percentage": 100
+            }
+        ]
     }
 ]
